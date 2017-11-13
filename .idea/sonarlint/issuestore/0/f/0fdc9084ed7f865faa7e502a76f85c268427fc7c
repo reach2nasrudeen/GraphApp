@@ -1,0 +1,40 @@
+
+8squid:S1659"#Declare "width" on a separate line.(Ç ş
+csquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø¤„7
+ssquid:S1450"WRemove the "stepArea" field and declare it as a local variable in the relevant methods.(èòÀû8û‰Ø…ú+
+tsquid:S1450"XRemove the "areaChart" field and declare it as a local variable in the relevant methods.(ÒËÄä8û‰Ø…ú+
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²¥‰Ö
+>squid:S1659")Declare "y_cordinate" on a separate line.(Ç ş
+[squid:UselessImportCheck"2Remove this unused import 'android.graphics.Path'.(¶‡ı8ŞÙ…ú+
+Isquid:S1068"-Remove this unused "areaChart" private field.(ÒËÄä8û‰Ø…ú+
+vsquid:S00116"`Rename this field "horizontal_width_list" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(••«ß
+osquid:S1450"ZRemove the "y_cordinate" field and declare it as a local variable in the relevant methods.(Ç ş
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô–Ú¼úÿÿÿÿ
+qsquid:S00116"VRename this field "minY_values" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Çß½ÿÿÿÿÿ
+>squid:S1659")Declare "maxY_values" on a separate line.(Ç ş
+=squid:S1659"(Declare "graphwidth" on a separate line.(Ç ş
+lsquid:S00116"VRename this field "y_cordinate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç ş
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(À¶È©8š˜Àƒú+
+>squid:S1659")Declare "graphheight" on a separate line.(Ç ş
+@squid:S1659"&Declare "horstart" on a separate line.(×¿Êâúÿÿÿÿ
+osquid:S00116"YRename this field "list_cordinate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯üˆ»
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š·ìîùÿÿÿÿ
+Bsquid:S1659"(Declare "circleSize" on a separate line.(×¿Êâúÿÿÿÿ
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ó­øÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(À¶È©8Æ»Äƒú+
+9squid:S1659"$Declare "height" on a separate line.(Ç ş
+Ysquid:S1854"=Remove this useless assignment to local variable "styleSize".(¬»î8ƒ×Ëƒú+
+lsquid:S00116"VRename this field "x_cordinate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç ş
+lsquid:S00116"VRename this field "maxY_values" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç ş
+lsquid:S00116"VRename this field "maxX_values" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç ş
+>squid:S1659")Declare "maxX_values" on a separate line.(Ç ş
+@squid:S1659"&Declare "colwidth" on a separate line.(×¿Êâúÿÿÿÿ
+>squid:S1659")Declare "parentWidth" on a separate line.(‡¯Ò˜
+osquid:S1450"ZRemove the "x_cordinate" field and declare it as a local variable in the relevant methods.(Ç ş
+asquid:HiddenFieldCheck"ARename "axisFormatter" which hides the field declared at line 32.(Ìù·¢
+Xsquid:S2184"DCast one of the operands of this subtraction operation to a "float".(ÿ›ø
+Hsquid:S1068",Remove this unused "stepArea" private field.(èòÀû8û‰Ø…ú+
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“à úÿÿÿÿ
+^squid:HiddenFieldCheck"9Rename "paint" which hides the field declared at line 20.(ÔŸ½Ôıÿÿÿÿ
+=squid:S1125"(Remove the literal "true" boolean value.(·ÑÙ­
+Jsquid:S1481".Remove this unused "styleSize" local variable.(ÂŸïÓ8ƒ×Ëƒú+

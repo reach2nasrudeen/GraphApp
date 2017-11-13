@@ -1,0 +1,100 @@
+
+qsquid:S00116"VRename this field "maxX_values" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å œÎøÿÿÿÿ
+=squid:S1659"(Declare "legendLeft" on a separate line.(äĞŒæ
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8÷ÑŠ¥ú+
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„šŠ³úÿÿÿÿ
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8÷ÑŠ¥ú+
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘õ³ü8÷ÑŠ¥ú+
+msquid:S00116"WRename this field "Yaxis_labels" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢†™—
+>squid:S2131"Use "Float.toString" instead.(“½íùÿÿÿÿ8Ø”‹¥ú+
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åîÕœşÿÿÿÿ8÷ÑŠ¥ú+
+psquid:S00116"URename this field "label_size" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûšç§ùÿÿÿÿ
+]squid:S1854"<Remove this useless assignment to local variable "y_labels".(Ñ÷»´ûÿÿÿÿ8Ë»ıù+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ó€Ïå8€ò¦ıù+
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë¦Ïøÿÿÿÿ8ßÆû†ú+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(“Íµüÿÿÿÿ8Ë»ıù+
+Bsquid:S1659"(Declare "graphwidth" on a separate line.(å œÎøÿÿÿÿ
+Asquid:S1659"'Declare "textPaint" on a separate line.(ßÄ˜óşÿÿÿÿ
+9squid:S2131"Use "Float.toString" instead.(²şª©8Ø”‹¥ú+
+Bsquid:S1659".Declare "horizontal_width" on a separate line.(³º‘Z
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğËÒÏÿÿÿÿÿ
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«½ûƒ
+9squid:S2131"Use "Float.toString" instead.(ºĞûı8÷ÑŠ¥ú+
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô¼§üÿÿÿÿ8÷ÑŠ¥ú+
+isquid:S00116"TRename this field "hor_ratio" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³º‘Z
+7squid:S1659"#Declare "width" on a separate line.(³º‘Z
+:squid:S1905"&Remove this unnecessary cast to "int".(¢ùÂ
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ÷»´ûÿÿÿÿ
+=squid:S1125"(Remove the literal "true" boolean value.(ºÍŒô
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ÃŠşÿÿÿÿ8÷ÑŠ¥ú+
+`squid:HiddenFieldCheck"9Rename "width" which hides the field declared at line 26.(˜——•8×µû†ú+
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Ê™™ıÿÿÿÿ
+=squid:S1125"(Remove the literal "true" boolean value.(ºÍŒô
+Jsquid:S1940")Use the opposite operator ("<=") instead.(«À«ıÿÿÿÿ8÷ÑŠ¥ú+
+Bsquid:S1075"&Remove this hard-coded path-delimiter.(’Â8÷ÑŠ¥ú+
+isquid:S00116"TRename this field "ver_ratio" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³º‘Z
+fsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ùÂ
+>squid:S1659")Declare "legendRight" on a separate line.(äĞŒæ
+;squid:S1659"'Declare "hor_ratio" on a separate line.(³º‘Z
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó—€•øÿÿÿÿ
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó—€•øÿÿÿÿ
+=squid:S1659")Declare "graphheight" on a separate line.(³º‘Z
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿğÑüÿÿÿÿ8÷ÑŠ¥ú+
+9squid:S2131"Use "Float.toString" instead.(ºé ‘8÷ÑŠ¥ú+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(„êÑ«8÷ÑŠ¥ú+
+esquid:HiddenFieldCheck"9Rename "width" which hides the field declared at line 26.(¥Šúÿÿÿÿ8÷ÑŠ¥ú+
+<squid:S1659""Declare "size" on a separate line.(Ûšç§ùÿÿÿÿ
+Csquid:S1659")Declare "minY_values" on a separate line.(å œÎøÿÿÿÿ
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„šŠ³úÿÿÿÿ
+?squid:S1659"*Declare "Yaxis_labels" on a separate line.(¢†™—
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8÷ÑŠ¥ú+
+esquid:HiddenFieldCheck"9Rename "paint" which hides the field declared at line 30.(ÔŸ½Ôıÿÿÿÿ8÷ÑŠ¥ú+
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( š–ùÿÿÿÿ8÷ÑŠ¥ú+
+Nsquid:S1481"-Remove this unused "y_labels" local variable.(Ñ÷»´ûÿÿÿÿ8Ë»ıù+
+=squid:S1125"(Remove the literal "true" boolean value.(¶•‰
+@squid:S1068"+Remove this unused "legends" private field.(´¸¯„
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(ˆ‹Í8÷ÑŠ¥ú+
+Bsquid:S1125"(Remove the literal "true" boolean value.(¨ò½êşÿÿÿÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²‹º¿
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶¤úšùÿÿÿÿ8÷ÑŠ¥ú+
+:squid:S1659"&Declare "horstart" on a separate line.(³º‘Z
+?squid:S1659"*Declare "legendBottom" on a separate line.(äĞŒæ
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åîÕœşÿÿÿÿ8÷ÑŠ¥ú+
+asquid:S2147"ECombine this catch with the one at line 469, which has the same body.(ï­£Ä8÷ÑŠ¥ú+
+>squid:S1659"$Declare "height" on a separate line.(å œÎøÿÿÿÿ
+>squid:S2131"Use "Float.toString" instead.(ÀÿÀúÿÿÿÿ8÷ÑŠ¥ú+
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕşŸ¤
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( š–ùÿÿÿÿ8÷ÑŠ¥ú+
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²±…Ëüÿÿÿÿ
+Xsquid:S00107"=Method has 14 parameters, which is greater than 7 authorized.(¡Ê™™ıÿÿÿÿ
+8squid:S1659"$Declare "border" on a separate line.(³º‘Z
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÏ§Å
+qsquid:S00116"VRename this field "hori_labels" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ¦ÌÌùÿÿÿÿ
+Fsquid:S1481"+Remove this unused "canter" local variable.(´şÉ}8÷ÑŠ¥ú+
+Csquid:S1659")Declare "maxX_values" on a separate line.(å œÎøÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(©¬şÿ8ì…‚‡ú+
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åîÕœşÿÿÿÿ8÷ÑŠ¥ú+
+asquid:S2147"ECombine this catch with the one at line 469, which has the same body.(‹±ÃÆ8÷ÑŠ¥ú+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8÷ÑŠ¥ú+
+jsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎË«p8÷ÑŠ¥ú+
+psquid:S00116"[Rename this field "horizontal_width" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³º‘Z
+’"squid:ClassVariableVisibilityCheck"aMake horizontal_width_list a static final constant or non-public and provide accessors if needed.(êª×¸ıÿÿÿÿ
+9squid:S2131"Use "Float.toString" instead.(ÒèÔø8÷ÑŠ¥ú+
+Csquid:S1659")Declare "maxY_values" on a separate line.(å œÎøÿÿÿÿ
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À«ˆåşÿÿÿÿ8÷ÑŠ¥ú+
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ö÷›
+csquid:S2259"BA "NullPointerException" could be thrown; "save" is nullable here.(šÉ’úÿÿÿÿ8÷ÑŠ¥ú+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(©Úúûÿÿÿÿÿ8÷ÑŠ¥ú+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(í½çïøÿÿÿÿ8÷ÑŠ¥ú+
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯°úÊøÿÿÿÿ8÷ÑŠ¥ú+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(“Éù—8÷ÑŠ¥ú+
+qsquid:S00116"VRename this field "maxY_values" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å œÎøÿÿÿÿ
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(±ıÕšüÿÿÿÿ8²ñ‡ú+
+qsquid:S00116"VRename this field "minY_values" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å œÎøÿÿÿÿ
+{squid:S00116"`Rename this field "horizontal_width_list" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êª×¸ıÿÿÿÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ¿¡ç
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Õì­øÿÿÿÿ8÷ÑŠ¥ú+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‰Ğãëúÿÿÿÿ8ùÅİ¥ú+

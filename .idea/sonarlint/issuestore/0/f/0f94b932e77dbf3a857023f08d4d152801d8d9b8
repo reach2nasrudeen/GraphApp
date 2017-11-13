@@ -1,0 +1,28 @@
+
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ¦€Ó
+>squid:S1659")Declare "tragetRight" on a separate line.(Š¾Ø³
+9squid:S1659"$Declare "bottom" on a separate line.(Š¾Ø³
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ÷Ÿ…üÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheck"WMake tragetRight a static final constant or non-public and provide accessors if needed.(Š¾Ø³
+ssquid:S00116"]Rename this field "targetY_cordinate2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¾Ø³
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÊ«æ
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉŸ¹òûÿÿÿÿ
+Š"squid:ClassVariableVisibilityCheck"^Make targetY_cordinate1 a static final constant or non-public and provide accessors if needed.(Š¾Ø³
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û†Ú ûÿÿÿÿ
+Esquid:S1659"0Declare "targetY_cordinate2" on a separate line.(Š¾Ø³
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ôÉ
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ú¿ûÿÿÿÿÿ
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°µòçùÿÿÿÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ôÉ
+Š"squid:ClassVariableVisibilityCheck"^Make targetY_cordinate2 a static final constant or non-public and provide accessors if needed.(Š¾Ø³
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍŸ’‡
+osquid:S00116"YRename this field "list_cordinate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥íº÷
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ÇÒüÿÿÿÿ
+ssquid:S00116"]Rename this field "targetY_cordinate1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¾Ø³
+<squid:S1659"'Declare "tragetTop" on a separate line.(Š¾Ø³
+Esquid:S1659"0Declare "targetY_cordinate1" on a separate line.(Š¾Ø³
+|"squid:ClassVariableVisibilityCheck"PMake left a static final constant or non-public and provide accessors if needed.(Š¾Ø³
+"squid:ClassVariableVisibilityCheck"UMake tragetTop a static final constant or non-public and provide accessors if needed.(Š¾Ø³
+~"squid:ClassVariableVisibilityCheck"RMake bottom a static final constant or non-public and provide accessors if needed.(Š¾Ø³
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ú¿ûÿÿÿÿÿ
+;squid:S1659"&Declare "horstart" on a separate line.( ßú„

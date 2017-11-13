@@ -1,0 +1,64 @@
+
+:squid:S1659"%Declare "closing" on a separate line.(”‘†©
+9squid:S1659"$Declare "labels" on a separate line.(´šº
+<squid:S1659""Declare "size" on a separate line.(İğˆıÿÿÿÿ
+?squid:S1659"%Declare "y_value" on a separate line.(å¢÷ıÿÿÿÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾È·§
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½è“â
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø“Ï
+psquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(²Â•š
+>squid:S1659"$Declare "mValue" on a separate line.(İğˆıÿÿÿÿ
+msquid:S00116"WRename this field "lowest_value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”‘†©
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø“Ï
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úû³úÿÿÿÿ
+5squid:S1948"!Make "list" private or transient.(§üÖ
+9squid:S1659"$Declare "column" on a separate line.(´šº
+>squid:S1659")Declare "sectorLabel" on a separate line.(´šº
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÍÈØüÿÿÿÿ
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¬Çÿşÿÿÿÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü°˜
+@squid:S1659"&Declare "x_values" on a separate line.(İğˆıÿÿÿÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çãò‘
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èĞûõ
+ssquid:S00116"XRename this field "highest_value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İğˆıÿÿÿÿ
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ãˆúÿÿÿÿ
+Bsquid:S1659"(Declare "heat_value" on a separate line.(å¢÷ıÿÿÿÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çãò‘
+?squid:S1659"%Declare "x_value" on a separate line.(å¢÷ıÿÿÿÿ
+Esquid:S1659"+Declare "trendlineText" on a separate line.(«ÜÄÒøÿÿÿÿ
+:squid:S1659"%Declare "legends" on a separate line.(´šº
+ksquid:S00116"PRename this field "Issum" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ÜÄÒøÿÿÿÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷û«¨
+psquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(–ø…ƒ
+<squid:S1659""Declare "left" on a separate line.(İğˆıÿÿÿÿ
+;squid:S1659"&Declare "pieLabel" on a separate line.(´šº
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡û„£şÿÿÿÿ
+nsquid:S00116"SRename this field "x_values" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İğˆıÿÿÿÿ
+usquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÆœÏ°ùÿÿÿÿ
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úû³úÿÿÿÿ
+<squid:S1659""Declare "data" on a separate line.(İğˆıÿÿÿÿ
+{squid:S1845"aRename field "issum" to prevent any misunderstanding/clash with field "Issum" defined on line 25.(ÿÙ¥»ùÿÿÿÿ
+<squid:S1659"'Declare "chartName" on a separate line.(´šº
+Dsquid:EmptyStatementUsageCheck"Remove this empty statement.(´šº
+psquid:S00116"URename this field "heat_value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å¢÷ıÿÿÿÿ
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÍÈØüÿÿÿÿ
+>squid:S1659"$Declare "bottom" on a separate line.(İğˆıÿÿÿÿ
+?squid:S1659"*Declare "pyramidLabel" on a separate line.(´šº
+Esquid:S1659"+Declare "highest_value" on a separate line.(İğˆıÿÿÿÿ
+:squid:S1659"%Declare "opening" on a separate line.(”‘†©
+nsquid:S00116"SRename this field "y_values" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İğˆıÿÿÿÿ
+wsquid:S1845"bRename method "Issum" to prevent any misunderstanding/clash with field "issum" defined on line 31.(¸‹Ş¥
+7squid:S1659""Declare "rows" on a separate line.(´šº
+msquid:S00116"RRename this field "x_value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å¢÷ıÿÿÿÿ
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ãˆúÿÿÿÿ
+=squid:S1659"#Declare "right" on a separate line.(İğˆıÿÿÿÿ
+usquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÿÙ¥»ùÿÿÿÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½è“â
+msquid:S00116"RRename this field "y_value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å¢÷ıÿÿÿÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èĞûõ
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¼ê¹ÿÿÿÿÿ
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úû³úÿÿÿÿ
+ssquid:S00116"XRename this field "pyramid_value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å¢÷ıÿÿÿÿ
+;squid:S1659"!Declare "top" on a separate line.(İğˆıÿÿÿÿ
+lsquid:S00116"QRename this field "y_list" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Í®´ùÿÿÿÿ
+psquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(˜í€
